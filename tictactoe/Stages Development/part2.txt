@@ -1,0 +1,14 @@
+part2 of project: Convert coordinate (x,y) of the position that user into number 1 to 9
+
+expected: 
+1.return a number from 1 to 10 match with the tictactoe place that user click
+
+
+implement:
+1.write a function named CheckClick() to convert that coordinate (x,y) to a number 1 to 9 represent for empty places on tictactoe board respectively.The number 10 represent for user click outside the plot.
+
+2. store that value to variable moveA.
+
+3.display moveA.
+
+actual output: a value between 1 to 10 match with the place that user clicked

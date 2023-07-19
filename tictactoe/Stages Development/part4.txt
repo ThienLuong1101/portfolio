@@ -1,0 +1,10 @@
+part4 of project: generate computer's turn
+
+expected: display icons on the tictactoe board
+
+implement: 
+1.display an icon X on the place that user clicked
+2.display an icon O on the place that computer choosed
+
+actual output:
+X and O icon respectively apprear on the clicked place.

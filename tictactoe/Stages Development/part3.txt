@@ -1,0 +1,17 @@
+part3 of project: solving 2 problems
+
+2 problems:
+a.if user click outside the plot 
+b.if user click on same place multiple times
+
+expected: 
+1.return a number 1 to 9 only once time
+2.require user click on proper place if user get involve in that 2 problems above
+
+implement:
+1.gernerate a list (checkList) that contain number 1 to 9
+2.compare moveA (number of the place that user click) with number in the checkList (checking moveA is in the list or not)
+3.if user click outside the plot -> moveA == 10 -> not in checkList -> require click on proper place
+4.if user click on proper place -> moveA = a number (1 to 9) -> eliminate that number from checkList -> next time if user click on same place -> that number is already eliminated from checkList -> require click on proper place
+
+actual output: number between 1 to 9 display only once or plz click on proper place

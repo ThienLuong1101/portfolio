@@ -1,0 +1,14 @@
+part5 of project: rule 
+
+expected: show who wins the game
+
+implement: 
+1. store the numbers of the places of each user clicked on their turn in 2 seperate lists.
+(X's list will have 5 numbers, O's list will have 4 numbers)
+2.write a function CheckWin() to check who wins
+3.compare these numbers in each list with number in checkwin list 
+example: If X player have 3 icons X on the first line -> X's list take 3 number 1,2,3 -> compare that 3 numbers with CheckLine list -> return true or false
+
+actual output:
+X WIN! or O WIN! or IT'S DRAW! on plot
+the numbers of the places that each player clicked in their turns

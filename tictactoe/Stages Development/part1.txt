@@ -1,0 +1,25 @@
+part 1 of project: generate a tictactoe board and prompt user's click coordinate (x,y) on that plot
+
+expected:
+1.generate a tictactoe board
+2.prompt user's click coordinate (x,y) on that plot (tictactoe board)
+
+implement:
+1.generate a board by plot, that plot has axis y (0,3) and axis (0,3)
+2.draw lines to make that board to tictactoe board
+3.use ginput() to prompt coordinate x,y multiple time, x and y return values between 0 to 3 everytime user click on the board
+
+actual output: 
+2 values that between 0 and 3
+
+case1:
+0.4891
+1.2942
+
+case2:
+1.7368
+0.9044
+
+case3:
+2.3623
+1.5088
