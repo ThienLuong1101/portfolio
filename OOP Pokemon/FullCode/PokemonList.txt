@@ -1,0 +1,20 @@
+Charmander Fire CharChar 60 25 35
+Torchic Fire TorTor 65 20 40
+Froakie Water kiekie 65 25 30
+Squirtle Water SquirSquir 60 30 25
+Bulbasaur Grass Bulba 70 25 50
+Treecko Grass TreTre 65 25 45
+
+Charmeleon Fire CharChar 120 45 35
+Combusken Fire TorTor 130 40 40
+Frogadier Water kiekie 130 45 30
+Wartortle Water SquirSquir 120 50 25
+Ivysaur Grass Bulba 140 45 50
+Grovyle Grass TreTre 130 45 45
+
+Charizard Fire CharChar 220 65 35
+Blaziken Fire TorTor 230 60 40
+Blastoise Water SquirSquir 220 70 25
+Greninja Water kiekie 230 65 30
+Venusaur Grass Bulba 240 65 50
+Sceptile Grass TreTre 230 65 45
