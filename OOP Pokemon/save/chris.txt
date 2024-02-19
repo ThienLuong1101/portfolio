@@ -1,0 +1,3 @@
+Grovyle Grass TreTre 130 45 45
+Wartortle Water SquirSquir 120 50 25
+Froakie Water kiekie 65 25 30
