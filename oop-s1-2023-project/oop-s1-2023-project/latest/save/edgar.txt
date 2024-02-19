@@ -1,3 +1,0 @@
-Blaziken Fire TorTor 230 60 40
-Charizard Fire CharChar 220 65 35
-Treecko Grass TreTre 65 25 45
